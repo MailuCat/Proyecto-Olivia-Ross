@@ -1,0 +1,21 @@
+header{
+    background-image: url('../imagenes/bg-hero.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: left;
+    padding: 10rem;
+   }
+header h1{
+    margin-left: 30rem;
+}
+
+header p{
+    margin-left: 30rem ;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.carousel-control-prev, .carousel-control-next{
+    width: 10px;
+    height: 10px;
+}
